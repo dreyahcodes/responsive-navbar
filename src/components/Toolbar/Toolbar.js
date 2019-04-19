@@ -20,6 +20,9 @@ const toolbar = props => (
           <li>
             <a href="/">Users</a>
           </li>
+          <li>
+            <a href="/">Contact</a>
+          </li>
         </ul>
       </div>
     </nav>
